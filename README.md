@@ -1,7 +1,6 @@
-# Rice Leaf Disease Detection (PRCP-1001)
+# Rice Leaf Disease Detection 
 
-**Course:** AIE  
-**Team:** PTID-AIE-OCT-26-11118  
+ 
 
 ---
 
@@ -12,7 +11,7 @@ This repository contains an end-to-end deep learning pipeline for detecting and 
 ```text
 PRCP-1001-Rice-Leaf-Disease-Detection/
 │
-├── data/                      # Dataset directory (raw & processed split into train/val/test)
+├── data/Bacterial leaf blight                      # Dataset directory (raw & processed split into train/val/test)
 ├── notebooks/                 # Jupyter Notebooks (EDA, Model Training, Evaluation)
 │   └── PRCP_1001_Rice_Leaf_Disease.ipynb
 ├── src/                       # Source python scripts for modular pipelines
